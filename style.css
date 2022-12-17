@@ -258,6 +258,9 @@ input[type=search]:focus{
 .container-3{
     flex: 100%;
 }
+ .container-3 img {
+  width: 80%;
+    }
 }
 @media(max-width:500px){
     .container-3 ul{
